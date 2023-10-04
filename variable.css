@@ -1,0 +1,11 @@
+:root {
+  --bg-primary-color: hsl(185, 75%, 39%);
+  --bg-secondary-color: white;
+  --text-primary-color: hsl(229, 23%, 23%);
+  --text-secondary-color: hsl(227, 10%, 46%);
+  --text-tertiary-color: hsl(0, 0%, 59%);
+  --text-weight-lighter: 400;
+  --text-weight-bold: 700;
+  --border-white-color: white;
+  --border-gray-color: #e8e9ec;
+}
